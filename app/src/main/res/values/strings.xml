@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_post_details">PostDetails</string>
+    <string name="title_activity_post_editer">post_editer</string>
+    <string name="editUrl">Url</string>
+    <string name="editTitle">Title</string>
+    <string name="editDate">Date</string>
+    <string name="editDesc">Description</string>
+    <string name="button_ok">Edit</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
